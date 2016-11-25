@@ -1,0 +1,32 @@
+{
+  "name": "umr",
+  "version": "1.0.0",
+  "description": "A simple chatbot built by bot framework.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nf start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalyao/UMR.git"
+  },
+  "keywords": [
+    "chatbot",
+    "bot",
+    "framework"
+  ],
+  "author": "michalyao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michalyao/UMR/issues"
+  },
+  "homepage": "https://github.com/michalyao/UMR#readme",
+  "engines": {
+    "node": "6.8.1"
+  },
+  "dependencies": {
+    "botbuilder": "3.4.4",
+    "foreman": "2.0.0",
+    "restify": "4.3.0"
+  }
+}
